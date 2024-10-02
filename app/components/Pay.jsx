@@ -37,7 +37,7 @@ const Pay = () => {
               <input
                 id="name"
                 name="name"
-                value="DemoTest"
+                value="shweta"
                 onChange={(e) => handleFormData(e)}
                 type="name"
                 autoComplete="name"
